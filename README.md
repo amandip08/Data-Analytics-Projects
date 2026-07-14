@@ -1,8 +1,8 @@
-# Power BI Dashboards
+# Data Analytics 
 
-Welcome to my Power BI portfolio repository.
+Welcome to my Data Analytics portfolio repository.
 
-This repository contains business intelligence and data visualization projects developed using Microsoft Power BI. These dashboards transform raw data into meaningful insights through interactive reports, KPIs, and visual analytics.
+This repository showcases end-to-end data analytics projects that follow a complete pipeline — from data extraction and transformation to interactive visualization and business intelligence.
 
 ## About Me
 
@@ -17,35 +17,28 @@ I am Amandip Singh, currently pursuing MSc Information Technology at GGDSD Colle
 * Microsoft Excel
 * Data Visualization
 
-## Dashboards
+## End-to-End Pipeline Workflow
+This repository follows a structured approach for each project:
 
-### Car Sales Dashboard
+1️⃣ Data Transformation (Python / Pandas)
+Loading raw data into Pandas DataFrames
+Handling missing values, duplicates, and outliers
+Feature engineering and creating calculated columns
+Data type conversions and standardization
+Exporting cleaned data for Power BI consumption
 
-An interactive dashboard designed to analyze vehicle sales performance, customer trends, and business metrics.
+2️⃣Data Extraction (SQL)
+Writing complex SQL queries to extract raw data from relational databases
+Joining multiple tables, filtering, aggregating, and creating views
+Exporting query results as CSV files for further processing 
 
-#### Key Features
 
-* Sales Performance Analysis
-* Revenue Tracking
-* Product Performance Monitoring
-* Interactive Filters and Slicers
-* KPI Visualization
-* Trend Analysis
-
-#### Business Insights
-
-* Identify top-performing vehicle categories
-* Monitor sales growth trends
-* Analyze revenue patterns
-* Support data-driven decision making
-
-## Future Dashboards
-
-* HR Analytics Dashboard
-* Sales Performance Dashboard
-* Financial Analysis Dashboard
-* Customer Segmentation Dashboard
-* E-Commerce Dashboard
+3️⃣ Data Visualization & Reporting (Power BI)
+Loading cleaned data into Power BI
+Building data models and relationships
+Creating calculated columns and measures using DAX
+Designing interactive dashboards with slicers, filters, and drill-throughs
+Publishing reports for stakeholders and decision-makers
 
 ## Author
 
