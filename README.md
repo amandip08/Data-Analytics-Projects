@@ -11,6 +11,8 @@ I am Amandip Singh, currently pursuing MSc Information Technology at GGDSD Colle
 ## Tools & Technologies
 
 * Power BI
+* Excel
+* Pivot Tables
 * Power Query
 * DAX
 * Data Modeling
@@ -20,7 +22,7 @@ I am Amandip Singh, currently pursuing MSc Information Technology at GGDSD Colle
 ## End-to-End Pipeline Workflow
 This repository follows a structured approach for each project:
 
-1️⃣ Data Transformation (Python / Pandas)
+1️⃣ Data Transformation (Python / Pandas/ Excel)
 Loading raw data into Pandas DataFrames
 Handling missing values, duplicates, and outliers
 Feature engineering and creating calculated columns
@@ -33,7 +35,7 @@ Joining multiple tables, filtering, aggregating, and creating views
 Exporting query results as CSV files for further processing 
 
 
-3️⃣ Data Visualization & Reporting (Power BI)
+3️⃣ Data Visualization & Reporting (Power BI/ Excel)
 Loading cleaned data into Power BI
 Building data models and relationships
 Creating calculated columns and measures using DAX
