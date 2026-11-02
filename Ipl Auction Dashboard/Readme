@@ -1,0 +1,171 @@
+#  IPL Auction Analysis Dashboard
+
+A **Power BI data analytics project** that provides an interactive analysis of IPL auction data. The dashboard helps users understand **player purchases, franchise spending, player styles, nationalities, retained players, sold players, and unsold players** through interactive visualizations and KPIs.
+
+## Project Overview
+
+The **IPL Auction Analysis Dashboard** is designed to transform auction data into meaningful business and sports insights. It provides a clear view of how franchises spend their budgets, which players receive the highest bids, and how different player categories perform in the auction market.
+
+The dashboard is divided into **three interactive analysis pages**:
+
+- **Auction & Top Buys**
+- **Team Analysis**
+- **Unsold & Market Analysis**
+
+Users can interact with the dashboard using filters for **Player Style, Nationality, Franchise, and Status**.
+
+---
+
+##  Dashboard Features
+
+###  Auction & Top Buys
+
+This page provides an overall analysis of auction activity and player purchases.
+
+Key insights include:
+
+- Total Players Sold
+- Total Auction Spend
+- Average Final Price
+- Highest Bid
+- Average Base Price
+- Top 10 Most Expensive Buys
+- Auction Spend by Franchise and Player Style
+- Spend Share by Player Style
+- Base Price vs Final Price Analysis
+- Average Final Price by Nationality
+- Detailed Sold Players Table
+
+---
+
+### Team Analysis
+
+This page focuses on franchise-level spending and squad composition.
+
+The dashboard analyzes:
+
+- Total Number of Franchises
+- Total Squad Players
+- Total Team Spend
+- Highest Team Spend
+- Lowest Team Spend
+- Retention vs Auction Spending
+- Squad Size by Franchise
+- Total Team Spending
+- Squad Composition by Player Style
+- Players by Nationality
+- Franchise-wise Summary
+
+This section helps compare the **team-building strategies and spending patterns of different IPL franchises**.
+
+---
+
+###  Unsold & Market Analysis
+
+This page focuses on the complete player pool and auction outcomes.
+
+It includes:
+
+- Total Player Pool
+- Number of Retained Players
+- Number of Players Sold at Auction
+- Number of Unsold Players
+- Average Base Price of Unsold Players
+- Player Pool Distribution by Status
+- Sold vs Unsold Players by Base Price
+- Sold vs Unsold Players by Nationality
+- Sold vs Unsold Players by Player Style
+- Average Base Price of Unsold Players by Style
+- Detailed Unsold Players List
+
+---
+
+##  Key Business Questions Answered
+
+This dashboard helps answer questions such as:
+
+- Which players received the highest auction bids?
+- Which franchises spent the most money?
+- How does spending differ according to player style?
+- Which nationalities receive higher average auction prices?
+- What is the relationship between a player's base price and final auction price?
+- Which teams have the largest squads?
+- How do retained players compare with auction purchases?
+- Which types of players are more likely to remain unsold?
+
+---
+
+##  Tools & Technologies Used
+
+- **Microsoft Power BI**
+- **Power Query** – Data transformation and preparation
+- **DAX** – KPI and measure calculations
+- **Interactive Slicers** – Dynamic filtering
+- **Data Visualization** – Charts, cards, tables, and comparison visuals
+
+---
+
+##  Skills Demonstrated
+
+- Data Cleaning and Transformation
+- Data Analysis
+- DAX Calculations
+- KPI Development
+- Sports Data Analytics
+- Interactive Dashboard Design
+- Data Visualization
+- Business Insight Generation
+- Power BI Reporting
+
+---
+
+##  Dashboard Structure
+
+| Page | Focus Area |
+|---|---|
+| **Auction & Top Buys** | Player purchases, bids, spending, and top buys |
+| **Team Analysis** | Franchise spending and squad composition |
+| **Unsold & Market** | Player status and unsold market analysis |
+
+---
+
+##  How to Use
+
+1. Download the `.pbix` file from this repository.
+2. Open the file using **Microsoft Power BI Desktop**.
+3. Navigate through the three dashboard pages.
+4. Use the available slicers to filter data by:
+   - Player Style
+   - Nationality
+   - Franchise
+   - Player Status
+5. Hover over visualizations to explore detailed insights.
+
+---
+
+##  Project File
+
+**`ipl_auction.pbix`** – Complete interactive Power BI dashboard containing data analysis, KPIs, slicers, and visualizations.
+
+---
+
+##  Project Highlights
+
+ **Interactive IPL Auction Analytics**  
+ **15+ Visualizations Across Multiple Pages**  
+ **Franchise Spending Analysis**  
+ **Top Player Purchase Insights**  
+ **Squad Composition Analysis**  
+ **Unsold Player Market Analysis**
+
+---
+
+##  Author
+
+**Amandip Singh**
+
+**Aspiring Data Analyst | Power BI | Excel | SQL | Data Visualization**
+
+---
+
+ **If you found this project useful, consider giving the repository a star!**
