@@ -1,0 +1,51 @@
+# Tata Group – Data Visualization Project
+
+## Project Overview
+
+This project was completed as part of the **Tata Group Data Visualization Virtual Experience Program**. The project focuses on analyzing an Online Retail dataset and creating interactive dashboards using Microsoft Power BI to answer business-related questions.
+
+The main objective was to transform raw business data into meaningful visual insights that can help in understanding business performance and supporting data-driven decision-making.
+
+## Objectives
+
+- Analyze the provided Online Retail dataset.
+- Understand and interpret business-related questions.
+- Identify important trends and patterns in the data.
+- Create interactive dashboards using Power BI.
+- Present insights through appropriate charts and visualizations.
+
+## Tools & Technologies Used
+
+- **Microsoft Power BI** – Dashboard creation and data visualization.
+- **Data Analysis** – Analyzing business data and identifying trends.
+- **Data Visualization** – Presenting insights through charts and graphs.
+
+## Project Files
+
+| File | Description |
+|---|---|
+| `online_retail(1).pbix` | Power BI dashboard file |
+| `questions.txt` | Business questions provided for the project |
+| `Visuals Hints.pdf` | Visualization guidelines and hints |
+
+## Key Learning Outcomes
+
+- Gained practical experience in Power BI.
+- Learned to analyze real-world business datasets.
+- Developed interactive dashboards.
+- Improved data interpretation and visualization skills.
+- Understood how data can support business decision-making.
+
+## Certificate
+
+Successfully completed the project and received a certificate of completion.
+
+## Conclusion
+
+This project provided hands-on experience in data analytics and business intelligence. It helped me understand how raw data can be transformed into meaningful visualizations and actionable business insights using Microsoft Power BI.
+
+---
+
+**Project Category:** Data Analytics & Data Visualization  
+**Tool:** Microsoft Power BI  
+**Dataset:** Online Retail
