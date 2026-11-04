@@ -1,0 +1,207 @@
+# Stock Market Performance Dashboard
+
+An interactive Power BI dashboard designed to analyze **S&P 500 stock market performance** from **2014 to 2017**. The dashboard provides insights into stock prices, returns, trading volume, volatility, market trends, and individual stock performance.
+
+## Project Overview
+
+This project transforms historical S&P 500 stock market data into an interactive and visually informative dashboard.
+
+The dashboard helps users analyze overall market performance and perform detailed analysis of individual stocks. Interactive filters allow users to explore data based on **Stock, Year, Month, and Day Type**.
+
+## Dashboard Sections
+
+### 1. Market Performance Overview
+
+Provides an overall view of the stock market.
+
+Key insights include:
+
+- Total Stocks Tracked
+- Total Trading Volume
+- Average Return Percentage
+- Total Gainers and Losers
+- Monthly Return Heatmap
+- Up vs Down Days
+- Top 5 Gainers
+- Top 5 Losers
+- Total Volume by Year
+
+![Market Performance Overview](sd1.png)
+
+---
+
+### 2. Stock Performance
+
+Provides detailed comparison of stock performance.
+
+Key insights include:
+
+- Selected Stock
+- Stock Rank
+- Average Stock Performance
+- Maximum Stock Performance
+- Volatility
+- Average Close Price
+- Average Daily Return by Month
+- Stock Rankings by Average Return
+- Total Volume by Year
+
+![Stock Performance](sd2.png)
+
+---
+
+### 3. Risk & Trading Analysis
+
+Focuses on stock volatility and trading activity.
+
+Key insights include:
+
+- Average Daily Range Percentage
+- Maximum Daily Range Percentage
+- Maximum Return Percentage
+- Average Trading Volume
+- Total Trading Days
+- Top 10 Most Volatile Stocks
+- Top 10 Most Traded Stocks
+- Volume Concentration
+- Average Daily Range by Year
+- Volatility by Month
+
+![Risk and Trading Analysis](sd4.png)
+
+---
+
+### 4. Stock Deep Dive
+
+Provides detailed analysis of individual stock performance.
+
+Key insights include:
+
+- Selected Stock
+- Stock Rank
+- Average Closing Price
+- Maximum High Price
+- Minimum Low Price
+- Average Close vs 7-Day Moving Average
+- Up vs Down Days
+- Highest vs Lowest Price by Year
+- Average Daily Volume by Month
+- Average Daily Range by Quarter
+
+![Stock Deep Dive](sd3.png)
+
+---
+
+## Key Features
+
+- Interactive filters and slicers
+- Stock-wise analysis
+- Year-wise and month-wise analysis
+- Market gainers and losers comparison
+- Volatility analysis
+- Trading volume analysis
+- Stock ranking
+- Moving average analysis
+- Risk and trading insights
+- Interactive visualizations
+
+---
+
+## Visualizations Used
+
+The dashboard includes:
+
+- Bar Charts
+- Horizontal Bar Charts
+- Donut Charts
+- Heatmaps
+- Treemaps
+- Tables
+- KPI Cards
+
+---
+
+## Key Metrics
+
+### Daily Return Percentage
+
+Measures the percentage change in stock price from one trading day to another.
+
+### Volatility
+
+Shows the variation in stock prices over time and helps identify higher-risk stocks.
+
+### Trading Volume
+
+Represents the number of shares traded during a specific period.
+
+### Daily Range Percentage
+
+Measures the difference between the daily high and low prices.
+
+### 7-Day Moving Average
+
+Helps identify stock price trends by smoothing short-term price fluctuations.
+
+---
+
+## Filters Available
+
+Users can interact with the dashboard using the following filters:
+
+- Stock
+- Year
+- Month
+- Day Type
+
+---
+
+## Dataset
+
+The project uses historical **S&P 500 stock market data from 2014 to 2017**.
+
+The dataset contains information related to:
+
+- Stock Symbols
+- Trading Dates
+- Open Prices
+- High Prices
+- Low Prices
+- Closing Prices
+- Trading Volume
+- Daily Returns
+- Price Range
+
+---
+
+## Tools and Technologies
+
+- Power BI
+- Data Analysis
+- Data Cleaning
+- Data Transformation
+- Data Visualization
+- DAX
+- Dashboard Design
+
+---
+
+## Project Objective
+
+The main objective of this project is to convert raw stock market data into meaningful insights through interactive data visualization.
+
+The dashboard helps users analyze market trends, compare stock performance, identify top gainers and losers, evaluate trading activity, and understand stock volatility.
+
+---
+
+## Conclusion
+
+The Stock Market Performance Dashboard provides a comprehensive analysis of historical stock market data.
+
+By combining interactive filters, KPI cards, charts, heatmaps, tables, and other visualizations, the dashboard makes complex financial data easier to understand and analyze.
+
+---
+
+## Author
+
+**Amandip Singh**
